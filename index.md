@@ -1,7 +1,4 @@
----
----
-
-# OS242: Ariqmau
+###### by Ariqmau
 
 [LINKS](LINKS/){:target="_blank"} --- [LOG](TXT/mylog.txt){:target="_blank"} --- [GitHub](https://github.com/Ariqmau/os242/){:target="_blank"}
 
