@@ -8,10 +8,8 @@ permalink: LINKS/
 ## LINKS 🔗
 
 * [Introduction to Linux and Basic Linux Commands for Beginners](https://www.youtube.com/watch?v=CpTfQ-q6MPU){:target="_blank"} ---
-  This site contains links to lecture materials, exam questions, and laboratory materials.
--> <a href="http://www.youtube.com/watch?feature=player_embedded&v=CpTfQ-q6MPU
-" target="_blank"><img src="http://img.youtube.com/vi/CpTfQ-q6MPU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+  This video explains 10 Linux Terminal Commands for Beginners
+-> [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/CpTfQ-q6MPU/0.jpg)](http://www.youtube.com/watch?v=CpTfQ-q6MPU)
 * [System Programming](https://sp.vlsm.org/){:target="_blank"} ---
   This site is based on “Google Here, Google There, Try This, Try That, and then Ask Anybody.
 * [Operating Systems Programming Weekly Assignments](https://demos.vlsm.org/){:target="_blank"} ---
