@@ -39,3 +39,7 @@ ZCZC W05 60 L05 QUIZ related including studyin
 ZCZC W05 120 L09 Weekly Assignments
 ZCZC W05 30 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W05 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W06 20 L01 SCELE/Discord related
+ZCZC W06 100 L02 Attended class
+ZCZC W06 120 L09 Weekly Assignments
+ZCZC W06 30 L32 YouTube: watching OS related topics, etc.
