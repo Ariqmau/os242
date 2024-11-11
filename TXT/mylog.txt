@@ -48,3 +48,8 @@ ZCZC W07 20 L01 SCELE/Discord related
 ZCZC W07 200 L02 Attended class
 ZCZC W07 60 L05 QUIZ related including studying
 ZCZC W07 120 L09 Weekly Assignments
+ZCZC W08 20 L00 General, etc.
+ZCZC W08 20 L01 SCELE/Discord related
+ZCZC W08 200 L02 Attended class
+ZCZC W08 60 L05 QUIZ related including studying
+ZCZC W08 120 L09 Weekly Assignments
